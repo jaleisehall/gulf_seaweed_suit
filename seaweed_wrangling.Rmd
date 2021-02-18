@@ -10,8 +10,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ```{r}
-# Attach Packages #
-
+# Attach Packages # 
 library(tidyverse)
 library(raster)
 library(sdmpredictors) # Bio Oracle
